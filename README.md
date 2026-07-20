@@ -15,6 +15,7 @@
 
 Day 2: Physical Network Segmentation & Infrastructure Layout
 🧠 Core Concepts Learned
+
 The DeMark (Demarcation Point): This is the exact physical line where the internet provider's (ISP) responsibility ends and your responsibility begins. If a tree knocks out a wire before this point, the ISP fixes it for free. If a wire breaks after this point inside your building, it's on you.
 
 Property Management DeMark: In big multi-story office buildings, there are actually two boundaries. The ISP drops the line at the building's basement (Demark 1), and then the building's property manager runs a cable up to your office door (Demark 2). If rats chew a cable inside the walls between floors, it's the building manager's job to fix it, not the ISP's.
