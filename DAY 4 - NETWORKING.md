@@ -1,4 +1,4 @@
-## Day 5: Layer 2 Deep Dive - Network Switches & Traffic Management
+## Day 4: Network Switches & Traffic Management
 
 ### 🧠 Core Concepts Learned 
 
